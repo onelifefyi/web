@@ -1,1 +1,9 @@
 1: 23/03/2020: Enrolled in "The Complete Web Developer in 2020: Zero to Mastery" at Udemy.
+2: 24/03/2020: Studied :
+                - Course roadmap and what i'll be learning. (HTML, CSS, JS, Node.js, SQL)
+                - How does the internet works:
+                - What happens when we search for something (say google.com)
+                - Tried using tracert (didn't understand, it took too much time to load google)
+                - About Frontend, Backend and FullStack developers.
+                - Read article by Andrei Neagoie (Instructor): https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/ (good read)
+                - Complete coursework till section 2 (How the Internet Works)
