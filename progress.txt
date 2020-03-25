@@ -11,5 +11,12 @@
                 - Difference between WWW and Internet (Internet:Phone::WWW:Instagram)
                 - History of Internet, First networks and Tim Lerners Lee
                 - Seen First Website CERN (http://info.cern.ch/hypertext/WWW/TheProject.html) and modified it's HTML, CSS & added JS alert() using Chrome's developer's tools
-                
-
+                - Created basic website:
+                    > With Header tags <h1>,<h2>...
+                    > Paragraph tags <p>
+                    > cool thing type "lorem" in text editor (VS Code here) it gives sample paragraph
+                    > Bold and Italics (previously was <b> and <i>) but now we use <strong> for bold and <em>for Italics (emphasis) in HTML5 
+                    > Ordered and Unordered lists <ol> <li> & <li> for items
+                    > Break Line <br> and Horizontal line <hr>
+                    > Image insert (<img src="address")
+                    > Hyperlinks/anchor tag <a href="link"></a>
