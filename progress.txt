@@ -7,3 +7,9 @@
                 - About Frontend, Backend and FullStack developers.
                 - Read article by Andrei Neagoie (Instructor): https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/ (good read)
                 - Complete coursework till section 2 (How the Internet Works)
+3: 25/03/2020: Studied:
+                - Difference between WWW and Internet (Internet:Phone::WWW:Instagram)
+                - History of Internet, First networks and Tim Lerners Lee
+                - Seen First Website CERN (http://info.cern.ch/hypertext/WWW/TheProject.html) and modified it's HTML, CSS & added JS alert() using Chrome's developer's tools
+                
+
