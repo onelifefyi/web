@@ -20,3 +20,5 @@
                     > Break Line <br> and Horizontal line <hr>
                     > Image insert (<img src="address")
                     > Hyperlinks/anchor tag <a href="link"></a>
+                    
+4: 26/03/2020: Studied about forms
