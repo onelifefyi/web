@@ -22,3 +22,6 @@
                     > Hyperlinks/anchor tag <a href="link"></a>
                     
 4: 26/03/2020: Studied about forms
+5: 27/03/2020: Studied:
+                - Forms cont: <select>
+                - <form method="GET"> (it's default) attach to URL, we need to use name in every attribute of form that we want to transfer
