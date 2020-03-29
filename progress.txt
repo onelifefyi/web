@@ -27,4 +27,5 @@
                 - <form method="GET"> (it's default) attach to URL, we need to use name in every attribute of form that we want to transfer
                 - comment using <!--Comment here-->
                 - <div> & <span>: Just to group (mainly for css) <div> for block & <span> for inline 
-6: 29/03/2020: Studied CSS and ways of defining it, I prefer the external one style.css
+6: 29/03/2020: Studied CSS and ways of defining it, I prefer the external one style.css,
+                - Change styles of lists and add cursor type and borders and colors 

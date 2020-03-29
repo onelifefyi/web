@@ -2,11 +2,24 @@
     Property: value;
 }
 */
+body {
+    background-image: url(Assets/space.jpg);
+    background-size: cover;
+}
 
 h2 {
     color: red;
+    text-align: center;
+    border: 5px dashed peru;
+    cursor: pointer;
 }
 
 p {
     color: green;
+}
+
+li {
+    color: white;
+    list-style: none;
+    display: inline-block;
 }
