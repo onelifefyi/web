@@ -14,7 +14,7 @@ h2 {
     cursor: pointer;
 }
 
-p {
+p:hover {
     color: green;
 }
 

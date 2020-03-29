@@ -29,3 +29,5 @@
                 - <div> & <span>: Just to group (mainly for css) <div> for block & <span> for inline 
 6: 29/03/2020: Studied CSS and ways of defining it, I prefer the external one style.css,
                 - Change styles of lists and add cursor type and borders and colors 
+                - some "selectors" ways to apply CSS, and hierarchy and all
+                - selector: hover (cool thing, this applies the CSS only if we hover over it)
