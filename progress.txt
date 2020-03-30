@@ -31,3 +31,5 @@
                 - Change styles of lists and add cursor type and borders and colors 
                 - some "selectors" ways to apply CSS, and hierarchy and all
                 - selector: hover (cool thing, this applies the CSS only if we hover over it)
+
+7: 30/03/2020: Fonts and it's properties.

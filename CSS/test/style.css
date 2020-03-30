@@ -2,10 +2,6 @@
     Property: value;
 }
 */
-body {
-    background-image: url(Assets/space.jpg);
-    background-size: cover;
-}
 
 h2 {
     color: red;
@@ -14,12 +10,26 @@ h2 {
     cursor: pointer;
 }
 
-p:hover {
+p:hover{
     color: green;
+    text-decoration: underline;
+    line-height: 55px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 li {
     color: white;
     list-style: none;
     display: inline-block;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
 }
