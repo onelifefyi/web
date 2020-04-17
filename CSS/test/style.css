@@ -19,6 +19,10 @@ p:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+span {
+    font-size: 2em;
+}
+
 li {
     color: white;
     list-style: none;
