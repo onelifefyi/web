@@ -35,3 +35,4 @@
 7: 30/03/2020: Fonts and it's properties.
 8: 17/04/2020: Margins and paddings and borders and box's width and height
                 Use font-size = :multiplier:em for increasing the size by multiplier times the parent's size
+9: 27/04/2020: FlexBox to create a image galler page.
