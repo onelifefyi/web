@@ -36,3 +36,4 @@
 8: 17/04/2020: Margins and paddings and borders and box's width and height
                 Use font-size = :multiplier:em for increasing the size by multiplier times the parent's size
 9: 27/04/2020: FlexBox to create a image galler page.
+10: 10/05/2020: CSS3 intro: transiction in CSS along with transform scale (to zoom on hover)
