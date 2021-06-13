@@ -1,4 +1,4 @@
-"""PigLatin URL Configuration
+"""Blog URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
@@ -15,16 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from . import views
+from posts import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # Adding a new URL and pointing it to a new view
-    path('hello/', views.hello),
-    # Adding a new URL returning html NB $ for home
-    path('home/', views.home, name='home'),
-    # New URL to translate
-    path('translate/', views.translate, name='translate'),
-    # New URL for about
-    path('about/', views.about, name='about')
+    path('home/', views.home),
 ]

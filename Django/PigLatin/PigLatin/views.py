@@ -18,3 +18,6 @@ def translate(request):
         else:
             translation += word[1:] + word[0] + 'ay '
     return render(request, 'translate.html', {'original':original, 'translation':translation})
+
+def about(request):
+    return render(request, 'about.html')
