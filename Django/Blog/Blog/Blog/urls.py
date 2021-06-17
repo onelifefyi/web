@@ -15,9 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.urls import re_path
 from posts import views
+# For images:
+from django.conf.urls.static import static
+from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', views.home),
-]
+    # Note: Using re_path whenever we want to use regex
+    re_path(r'^posts/(?P<post_id>[0-9]+)/$', views.post_details, name="post_details"),
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
